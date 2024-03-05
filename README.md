@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MengyiChen2002
+- 👋 Hi, I’m Mengyi Chen
 - 👀 I’m interested in Marketing
 - 🌱 I’m currently learning coding skills...
 - 💞️ I’m looking to collaborate on Marketing Information Systems
